@@ -1,0 +1,11 @@
+D:\VS\LogFileViewer\LogFileViewer\LogFileViewer\obj\Debug\LogFileViewer.frmMain.resources
+D:\VS\LogFileViewer\LogFileViewer\LogFileViewer\obj\Debug\LogFileViewer.Properties.Resources.resources
+D:\VS\LogFileViewer\LogFileViewer\LogFileViewer\obj\Debug\LogFileViewer.csproj.GenerateResource.cache
+D:\VS\LogFileViewer\LogFileViewer\LogFileViewer\bin\Debug\LogFileViewer.exe.config
+D:\VS\LogFileViewer\LogFileViewer\LogFileViewer\bin\Debug\LogFileViewer.exe
+D:\VS\LogFileViewer\LogFileViewer\LogFileViewer\bin\Debug\LogFileViewer.pdb
+D:\VS\LogFileViewer\LogFileViewer\LogFileViewer\obj\Debug\LogFileViewer.exe
+D:\VS\LogFileViewer\LogFileViewer\LogFileViewer\obj\Debug\LogFileViewer.pdb
+D:\VS\LogFileViewer\LogFileViewer\LogFileViewer\obj\Debug\LogFileViewer.csproj.ResolveComReference.cache
+D:\VS\LogFileViewer\LogFileViewer\LogFileViewer\obj\Debug\LogFileViewer.Form2.resources
+D:\VS\LogFileViewer\LogFileViewer\LogFileViewer\obj\Debug\LogFileViewer.csprojAssemblyReference.cache
